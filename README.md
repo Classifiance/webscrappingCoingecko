@@ -5,3 +5,6 @@ Gain time with you researches on cryptos! Find the best/worst perfoming crypto o
 
 
 Then follow the links you'll find the latest news about it
+
+![image](https://user-images.githubusercontent.com/99927986/176774264-52fd16c8-ba45-4b70-b184-983b671fc07b.png)
+
